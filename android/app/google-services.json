@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "676231961326",
+    "project_id": "kumua-kumua",
+    "storage_bucket": "kumua-kumua.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676231961326:android:69610761c1806c5dc3b1ff",
+        "android_client_info": {
+          "package_name": "com.example.water_intake"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoj3bFGWLpCjnrJOUQS-6VA0zeOx9lZ1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>676231961326-c8007rfa1gg7rgum4g7ae86mik68bbgd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.676231961326-c8007rfa1gg7rgum4g7ae86mik68bbgd</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>676231961326-7hq6j3qk2h2n52lcbaf6udiot2087oru.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBPntgZ4Tr3Yck3x1CpwzXIfn4w8PVbSJM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>676231961326</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.waterIntake</string>
+	<key>PROJECT_ID</key>
+	<string>kumua-kumua</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kumua-kumua.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:676231961326:ios:a3e69e84c038ff77c3b1ff</string>
+</dict>
+</plist>
